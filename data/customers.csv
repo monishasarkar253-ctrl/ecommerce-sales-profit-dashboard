@@ -1,0 +1,21 @@
+customer_id,age,gender,region,city,income_range,segment,acquisition_channel,signup_date,total_orders,total_spent,total_profit,avg_order_value,repeat_purchase_rate,churn_risk,is_returning_customer,loyalty_tier
+C001,28,Female,North,New Delhi,50k-100k,Returning,Organic,2023-01-15,7,14500,4200,2071,0.71,0.18,Yes,Loyal
+C002,35,Male,South,Bengaluru,100k-200k,VIP,Google Ads,2022-06-18,12,27800,8400,2317,0.82,0.08,Yes,VIP
+C003,42,Female,West,Mumbai,200k+,High Value,Referral,2021-11-21,10,26500,7800,2650,0.76,0.12,Yes,VIP
+C004,31,Male,East,Kolkata,50k-100k,New,Instagram,2024-02-10,3,6200,1450,2067,0.42,0.31,No,Standard
+C005,26,Female,North,Jaipur,50k-100k,New,Organic,2024-05-03,2,4100,980,2050,0.33,0.38,No,Standard
+C006,50,Male,South,Hyderabad,100k-200k,Loyal,Email Campaign,2021-04-14,15,33200,9800,2213,0.87,0.10,Yes,Loyal
+C007,39,Female,West,Pune,100k-200k,Returning,Facebook Ads,2022-09-09,9,18800,5200,2089,0.68,0.20,Yes,Loyal
+C008,45,Male,East,Patna,50k-100k,At Risk,Referral,2020-12-20,5,9800,2100,1960,0.36,0.55,Yes,Standard
+C009,29,Female,North,Noida,100k-200k,Returning,Google Ads,2023-08-16,8,16400,4700,2050,0.69,0.22,Yes,Loyal
+C010,33,Male,South,Chennai,200k+,High Value,Organic,2022-02-12,13,30100,9100,2315,0.80,0.09,Yes,VIP
+C011,48,Female,West,Ahmedabad,100k-200k,Loyal,Email Campaign,2021-07-27,14,32000,9600,2286,0.81,0.11,Yes,Loyal
+C012,27,Male,East,Bhubaneswar,50k-100k,New,Instagram,2024-01-18,4,7600,1850,1900,0.41,0.33,No,Standard
+C013,36,Female,North,Delhi,200k+,VIP,Referral,2021-09-05,18,41000,13000,2278,0.91,0.05,Yes,VIP
+C014,41,Male,South,Bengaluru,100k-200k,Returning,Google Ads,2023-02-19,11,21900,6100,1991,0.72,0.18,Yes,Loyal
+C015,30,Female,West,Nashik,50k-100k,At Risk,Facebook Ads,2023-11-30,3,5400,1100,1800,0.34,0.49,No,Standard
+C016,54,Male,North,Shimla,200k+,VIP,Organic,2020-05-08,16,36800,11200,2300,0.89,0.07,Yes,VIP
+C017,38,Female,East,Raipur,50k-100k,Returning,Instagram,2022-11-06,8,17200,4600,2150,0.66,0.24,Yes,Loyal
+C018,44,Male,West,Surat,100k-200k,Loyal,Email Campaign,2021-03-11,12,28700,8650,2392,0.79,0.12,Yes,Loyal
+C019,32,Female,South,Coimbatore,50k-100k,New,Google Ads,2024-03-25,2,3900,870,1950,0.30,0.40,No,Standard
+C020,46,Male,North,Ludhiana,200k+,High Value,Referral,2020-08-01,17,38200,11700,2247,0.88,0.09,Yes,VIP

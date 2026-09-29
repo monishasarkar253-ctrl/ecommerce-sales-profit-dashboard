@@ -1,0 +1,93 @@
+order_id,customer_id,order_date,product_category,product_name,quantity,unit_price,discount_pct,sales_amount,cogs,profit,payment_method,shipping_cost,order_status,region,customer_segment,channel
+O1001,C001,2024-01-03,Electronics,Wireless Earbuds,1,2999,8,2759,1700,1059,Credit Card,149,Completed,North,Returning,Organic
+O1002,C001,2024-02-14,Home Decor,LED Lamp,2,1299,10,2338,1460,878,UPI,120,Completed,North,Returning,Organic
+O1003,C001,2024-03-09,Fashion,Leather Jacket,1,2599,12,2287,1600,687,Debit Card,180,Completed,North,Returning,Organic
+O1004,C001,2024-04-21,Beauty,Hair Dryer,1,1899,5,1804,1200,604,UPI,99,Completed,North,Returning,Organic
+O1005,C001,2024-05-13,Electronics,Smart Watch,1,5999,15,5099,3800,1299,Credit Card,220,Completed,North,Returning,Organic
+O1006,C001,2024-06-18,Home Decor,Air Purifier,1,6899,12,6067,4300,1767,Credit Card,240,Completed,North,Returning,Organic
+O1007,C001,2024-07-20,Fashion,Sneakers,2,2499,10,4498,2900,1598,UPI,150,Completed,North,Returning,Organic
+O1008,C002,2024-01-05,Electronics,Smartphone Case,3,899,7,2508,1750,758,UPI,80,Completed,South,VIP,Google Ads
+O1009,C002,2024-02-12,Home Decor,Desk Organizer,2,1199,8,2206,1450,756,Credit Card,100,Completed,South,VIP,Google Ads
+O1010,C002,2024-03-16,Fashion,Formal Shirt,2,1699,10,3058,2100,958,Debit Card,110,Completed,South,VIP,Google Ads
+O1011,C002,2024-04-24,Beauty,Premium Face Serum,2,1399,12,2458,1500,958,UPI,90,Completed,South,VIP,Google Ads
+O1012,C002,2024-05-15,Electronics,Laptop Stand,1,2499,10,2249,1500,749,Credit Card,140,Completed,South,VIP,Google Ads
+O1013,C002,2024-06-28,Home Decor,Portable Speaker,1,3899,15,3314,2500,814,Credit Card,130,Completed,South,VIP,Google Ads
+O1014,C002,2024-07-22,Fashion,Travel Backpack,1,4599,10,4139,2850,1289,UPI,160,Completed,South,VIP,Google Ads
+O1015,C002,2024-08-17,Electronics,Noise Cancelling Headphones,1,7999,18,6559,4700,1859,Credit Card,200,Completed,South,VIP,Google Ads
+O1016,C003,2024-01-14,Fashion,Designer Kurta,2,3499,11,6208,4300,1908,Credit Card,180,Completed,West,High Value,Referral
+O1017,C003,2024-02-11,Electronics,Tablet,1,21999,12,19359,14200,5159,UPI,250,Completed,West,High Value,Referral
+O1018,C003,2024-03-07,Home Decor,Robot Vacuum,1,18500,10,16650,11800,4850,Debit Card,300,Completed,West,High Value,Referral
+O1019,C003,2024-04-19,Beauty,Skincare Kit,3,2499,9,6822,4500,2322,Credit Card,120,Completed,West,High Value,Referral
+O1020,C003,2024-05-03,Fashion,Premium Watch,1,8999,14,7739,5300,2439,UPI,160,Completed,West,High Value,Referral
+O1021,C003,2024-06-17,Electronics,4K Smart TV,1,42999,20,34399,26500,7899,Credit Card,450,Completed,West,High Value,Referral
+O1022,C004,2024-02-09,Fashion,Casual T-Shirt,2,899,8,1651,1250,401,UPI,70,Completed,East,New,Instagram
+O1023,C004,2024-03-27,Beauty,Hand Cream Set,2,799,5,1518,1050,468,Credit Card,60,Completed,East,New,Instagram
+O1024,C004,2024-04-19,Home Decor,Cushion Set,2,1499,10,2698,1900,798,UPI,80,Completed,East,New,Instagram
+O1025,C005,2024-02-22,Electronics,USB Hub,1,1499,5,1424,960,464,UPI,60,Completed,North,New,Organic
+O1026,C005,2024-05-19,Beauty,Face Wash Set,2,799,7,1480,980,500,Debit Card,55,Completed,North,New,Organic
+O1027,C006,2024-01-09,Fashion,Office Suit,2,3999,12,7038,4800,2238,Credit Card,150,Completed,South,Loyal,Email Campaign
+O1028,C006,2024-02-16,Electronics,Monitor,1,11999,10,10799,8100,2699,UPI,210,Completed,South,Loyal,Email Campaign
+O1029,C006,2024-03-22,Home Decor,Storage Cabinet,1,6999,12,6159,4300,1859,Credit Card,200,Completed,South,Loyal,Email Campaign
+O1030,C006,2024-04-28,Beauty,Perfume Gift Box,3,1799,15,4594,3100,1494,Debit Card,120,Completed,South,Loyal,Email Campaign
+O1031,C006,2024-05-26,Fashion,Running Shoes,1,4299,12,3783,2600,1183,UPI,150,Completed,South,Loyal,Email Campaign
+O1032,C006,2024-06-17,Electronics,Keyboard,1,3499,9,3174,2400,774,Credit Card,110,Completed,South,Loyal,Email Campaign
+O1033,C006,2024-07-08,Home Decor,Bookshelf,1,8999,10,8099,5900,2199,UPI,220,Completed,South,Loyal,Email Campaign
+O1034,C006,2024-08-15,Beauty,Makeup Kit,2,1899,8,3494,2200,1294,Debit Card,100,Completed,South,Loyal,Email Campaign
+O1035,C007,2024-01-19,Electronics,Portable Charger,2,1999,7,3718,2600,1118,UPI,70,Completed,West,Returning,Facebook Ads
+O1036,C007,2024-02-25,Home Decor,Wall Clock,1,1499,6,1409,950,459,Credit Card,80,Completed,West,Returning,Facebook Ads
+O1037,C007,2024-03-30,Fashion,Dress,1,2599,12,2287,1600,687,Debit Card,90,Completed,West,Returning,Facebook Ads
+O1038,C007,2024-04-18,Beauty,Skin Care Combo,1,2199,9,1997,1300,697,UPI,60,Completed,West,Returning,Facebook Ads
+O1039,C007,2024-05-29,Electronics,Webcam,1,3499,10,3149,2300,849,Credit Card,65,Completed,West,Returning,Facebook Ads
+O1040,C008,2024-01-12,Home Decor,Table Lamp,1,1999,8,1839,1400,439,UPI,80,Completed,East,At Risk,Referral
+O1041,C008,2024-02-11,Fashion,Denim Jacket,1,2599,12,2287,1600,687,Credit Card,90,Completed,East,At Risk,Referral
+O1042,C008,2024-03-27,Beauty,Hair Straightener,1,2299,9,2090,1500,590,UPI,70,Completed,East,At Risk,Referral
+O1043,C008,2024-04-22,Electronics,Tablet Stand,1,1499,10,1349,980,369,Debit Card,65,Completed,East,At Risk,Referral
+O1044,C009,2024-01-13,Fashion,Winter Jacket,1,4599,14,3955,3000,955,Credit Card,170,Completed,North,Returning,Google Ads
+O1045,C009,2024-02-15,Electronics,Bluetooth Speaker,1,3299,10,2969,2100,869,UPI,120,Completed,North,Returning,Google Ads
+O1046,C009,2024-03-20,Beauty,Night Cream,2,1199,9,2181,1500,681,Debit Card,85,Completed,North,Returning,Google Ads
+O1047,C009,2024-04-29,Home Decor,Coffee Maker,1,3999,11,3559,2600,959,Credit Card,130,Completed,North,Returning,Google Ads
+O1048,C009,2024-05-10,Fashion,Heels,1,3199,8,2943,2050,893,UPI,110,Completed,North,Returning,Google Ads
+O1049,C010,2024-01-18,Electronics,4K Camera,1,48999,18,40099,30000,10099,Debit Card,420,Completed,South,High Value,Organic
+O1050,C010,2024-02-15,Home Decor,Smart Refrigerator,1,88000,20,70400,56000,14400,Credit Card,800,Completed,South,High Value,Organic
+O1051,C010,2024-03-20,Fashion,Premium Suit,1,12499,12,10999,7600,3399,UPI,210,Completed,South,High Value,Organic
+O1052,C010,2024-04-17,Beauty,Luxury Skin Set,2,5999,15,10198,7000,3198,Credit Card,140,Completed,South,High Value,Organic
+O1053,C010,2024-05-29,Electronics,Drone,1,24999,14,21499,16500,4999,Credit Card,350,Completed,South,High Value,Organic
+O1054,C011,2024-01-25,Home Decor,Modular Shelf,1,12999,10,11699,8400,3299,Credit Card,250,Completed,West,Loyal,Email Campaign
+O1055,C011,2024-02-27,Electronics,Projector,1,35999,15,30599,22500,8099,UPI,420,Completed,West,Loyal,Email Campaign
+O1056,C011,2024-03-19,Fashion,Designer Saree,2,4499,10,8098,5500,2598,Debit Card,180,Completed,West,Loyal,Email Campaign
+O1057,C011,2024-04-30,Beauty,Fragrance Set,2,2999,8,5518,3800,1718,Credit Card,120,Completed,West,Loyal,Email Campaign
+O1058,C011,2024-06-12,Electronics,Printer,1,8999,11,8009,6100,1909,UPI,160,Completed,West,Loyal,Email Campaign
+O1059,C012,2024-02-05,Electronics,USB Type-C Cable,2,799,5,1518,980,538,Credit Card,40,Completed,East,New,Instagram
+O1060,C012,2024-03-14,Beauty,Face Cleanser,2,699,7,1299,850,449,UPI,50,Completed,East,New,Instagram
+O1061,C012,2024-04-09,Home Decor,Wall Art,1,2199,8,2023,1380,643,Debit Card,75,Completed,East,New,Instagram
+O1062,C013,2024-01-08,Electronics,MacBook Pro,1,134999,18,110499,81000,29499,Credit Card,650,Completed,North,VIP,Referral
+O1063,C013,2024-02-24,Home Decor,Premium Sofa,1,34999,15,29749,22000,7749,Credit Card,450,Completed,North,VIP,Referral
+O1064,C013,2024-03-17,Fashion,Bridal Outfit,2,8999,12,15838,11000,4838,UPI,290,Completed,North,VIP,Referral
+O1065,C013,2024-05-11,Beauty,Luxury Makeup Box,3,2999,10,8097,5400,2697,Debit Card,160,Completed,North,VIP,Referral
+O1066,C013,2024-06-21,Electronics,Apple Watch,1,39999,16,33599,25000,8599,Credit Card,320,Completed,North,VIP,Referral
+O1067,C014,2024-02-17,Fashion,Office Blazer,1,3499,10,3149,2200,949,UPI,110,Completed,South,Returning,Google Ads
+O1068,C014,2024-03-09,Beauty,Collagen Pack,2,1899,12,3338,2400,938,Debit Card,100,Completed,South,Returning,Google Ads
+O1069,C014,2024-05-01,Electronics,Wireless Mouse,1,1499,8,1379,980,399,Credit Card,60,Completed,South,Returning,Google Ads
+O1070,C014,2024-06-23,Home Decor,Patio Chair,1,4999,10,4499,3200,1299,UPI,130,Completed,South,Returning,Google Ads
+O1071,C015,2024-02-19,Fashion,Summer Dress,1,1699,8,1563,1150,413,Credit Card,75,Completed,West,At Risk,Facebook Ads
+O1072,C015,2024-04-02,Beauty,Nail Kit,1,899,7,834,620,214,UPI,40,Completed,West,At Risk,Facebook Ads
+O1073,C016,2024-01-11,Fashion,Leather Shoes,1,4999,10,4499,3100,1399,Credit Card,130,Completed,North,VIP,Organic
+O1074,C016,2024-02-18,Electronics,Stylus Pen,2,1299,8,2383,1700,683,UPI,60,Completed,North,VIP,Organic
+O1075,C016,2024-03-25,Home Decor,Smart Lamp,1,2899,11,2578,1800,778,Debit Card,90,Completed,North,VIP,Organic
+O1076,C016,2024-04-17,Beauty,Premium Lotion Set,2,1999,9,3638,2500,1138,Credit Card,80,Completed,North,VIP,Organic
+O1077,C016,2024-05-08,Fashion,Travel Bag,1,3299,10,2969,2200,769,UPI,110,Completed,North,VIP,Organic
+O1078,C017,2024-01-27,Electronics,Smart Plug,2,799,6,1498,990,508,UPI,50,Completed,East,Returning,Instagram
+O1079,C017,2024-03-15,Home Decor,Throw Pillow Set,2,1199,9,2177,1500,677,Debit Card,70,Completed,East,Returning,Instagram
+O1080,C017,2024-04-20,Fashion,Office Sneakers,1,2499,8,2299,1580,719,Credit Card,100,Completed,East,Returning,Instagram
+O1081,C018,2024-01-21,Electronics,Wireless Keyboard,1,2999,10,2699,1900,799,UPI,90,Completed,West,Loyal,Email Campaign
+O1082,C018,2024-02-28,Fashion,Formal Trousers,2,2499,10,4498,3050,1448,Credit Card,110,Completed,West,Loyal,Email Campaign
+O1083,C018,2024-03-24,Beauty,Face Mask Pack,3,699,7,1944,1280,664,UPI,55,Completed,West,Loyal,Email Campaign
+O1084,C018,2024-05-02,Home Decor,Reading Lamp,1,2199,9,1998,1450,548,Debit Card,80,Completed,West,Loyal,Email Campaign
+O1085,C018,2024-06-12,Fashion,Leather Belt,1,1499,8,1379,980,399,Credit Card,70,Completed,West,Loyal,Email Campaign
+O1086,C019,2024-02-14,Electronics,USB C Hub,1,1599,9,1454,990,464,UPI,48,Completed,South,New,Google Ads
+O1087,C019,2024-03-18,Beauty,Moisturizer,1,899,7,834,560,274,Credit Card,40,Completed,South,New,Google Ads
+O1088,C020,2024-01-10,Electronics,Curved Monitor,1,28899,12,25407,18200,7207,Credit Card,350,Completed,North,High Value,Referral
+O1089,C020,2024-02-20,Home Decor,Executive Chair,1,18999,14,16319,12000,4319,UPI,300,Completed,North,High Value,Referral
+O1090,C020,2024-03-29,Fashion,Premium Blazer,1,7999,15,6799,4800,1999,Debit Card,170,Completed,North,High Value,Referral
+O1091,C020,2024-05-14,Beauty,Luxury Perfume,1,5999,13,5219,3500,1719,Credit Card,120,Completed,North,High Value,Referral
+O1092,C020,2024-06-23,Electronics,Audio Mixer,1,15999,12,14079,9800,4279,UPI,240,Completed,North,High Value,Referral
